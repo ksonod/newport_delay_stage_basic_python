@@ -1,10 +1,12 @@
 # newport_delay_stage_basic_python
 
 ## Description
-This repository contains simple python codes for controlling [Newport delay line stage](https://www.newport.com/f/delay-line-stages). You can start from here and modify them. These codes work under the following condisionts:
+This repository contains simple python codes for controlling [Newport delay line stage](https://www.newport.com/f/delay-line-stages). You can start from here and modify them. In order to control the stage, .NET is used. These codes work under the following condisionts:
 - Windows 10
 - Python3 (Anaconda)
 - [DL Series Optical Delay Line Linear Motor Linear Translation Stages](https://www.newport.com/f/delay-line-stages)
+
+
 
 ## DLS_1_get_version
 You can get the version of your delay line stage.  
