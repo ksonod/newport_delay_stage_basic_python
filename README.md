@@ -21,3 +21,7 @@ You can move your delay line stage.
 ## Avoiding Expected Errors at the Beginning
 - Please check whether you have [pythonnet](https://pypi.org/project/pythonnet/).
 - Please check whether you are importing correct clr library.
+
+## Useful References
+- Official document: https://www.newport.com/mam/celum/celum_assets/resources/DL_Controller_-_Command_Interface_Manual.pdf?1
+- Dummy arguments: https://stackoverflow.com/questions/54692267/python-net-call-c-sharp-method-which-has-a-return-value-and-an-out-parameter
